@@ -1,4 +1,4 @@
-# Clean-Sweep v0.2.1
+# Clean-Sweep v0.2
 **A Modular Database Architect Utility for High-Performance WordPress Systems.**
 
 Most "optimization" plugins add more bloat than they remove. **Clean-Sweep** is a surgical utility built for architects who want direct control over database integrity and server memory without the overhead of heavy frameworks.
